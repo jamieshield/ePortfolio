@@ -7,7 +7,7 @@ Evidence is provided here of the following objectives:
 3. Work effectively as part of a team
    - Add evidence here. 
 4. Communicate effectively in a professional context
-   - I cowrote a [requirements specification](Awesome report.docx) for a university systems analysis course.
+   - Cowrote a [requirements specification](Awesome%20report.docx) for a university systems analysis course.
 5. Define and demonstrate conflict management and resolution strategies.
    - Add evidence here.
 
